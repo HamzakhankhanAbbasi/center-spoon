@@ -1,0 +1,147 @@
+@media only screen and (max-width:1330px){}
+@media only screen and (max-width:1200px){}
+@media only screen and (max-width:1060px){}
+@media only screen and (max-width:1024px){
+	.Recomendation-Box {
+    	max-width: 25%;
+	}
+	.inner-heading {
+    	font-size: 48px !important;
+	}
+}
+@media only screen and (max-width:991px){
+	.index-sec1 {
+    	min-height: 500px;
+	}
+	.banner-content h3 {
+    	font-size: 44px;
+	}
+	.banner-content p {
+    	font-size: 24px;
+	}
+	.inner-heading {
+    	font-size: 44px !important;
+	}
+	.range-input {
+		width: calc(100% - 200px);
+	}
+	.Recomendation-Box {
+    	max-width: 33.33%;
+	}
+	.index-sec4-content p {
+    	font-size: 34px;
+	}
+	.index-sec6 .innerSec-head {
+    	align-items: center;
+	}
+	.sec6-head {
+    	max-width: 650px;
+	}
+	.sec6-head p {
+    	font-size: 20px;
+	}
+	.links-heading {
+    	font-size: 18px;
+    	font-weight: 700;
+	}
+	.footer-col2 ul li a {
+    	font-size: 14px;
+    	font-weight: 500;
+	}
+	.footer-col1 p {
+    	font-size: 14px;
+    	max-width: 400px;
+	}
+}
+@media only screen and (max-width:767px){
+	.item-button .site-btn {
+    	font-size: 18px;
+	}
+	.range-input {
+	    width: calc(100% - 90px);
+	    padding: 0 10px;
+	}
+	.rest-location {
+    	text-align: center;
+	}
+	.rest-location span {
+    	font-size: 14px;
+    	display: block;
+	}
+	.footer-bottom p {
+    	font-size: 13px;
+	}
+	.footer-bottom .right span {
+    	font-size: 13px;
+	}
+	.footer-bottom .right a {
+	    font-size: 13px;
+	    width: 20px;
+	    height: 20px;
+	    margin: 0 3px;
+	}
+}
+@media only screen and (max-width:660px){
+	.Recomendation-Box {
+    	max-width: 50%;
+	}
+}
+@media only screen and (max-width:575px){
+	.inner-heading {
+	    font-size: 30px !important;
+	}
+	.index-sec6 .innerSec-head {
+    	align-items: center;
+	}
+	.rest-location span {
+    	font-size: 16px;
+    	display: inline-block;
+	}
+	.filter-innerWrap {
+    	position: relative;
+    	margin-bottom: 15px;
+	}
+	.range-input {
+	    position: absolute;
+	    bottom: -100%;
+	    left: 0;
+	    right: 0;
+	    width: 100%;
+	    padding: 0;
+	}
+	.Recomendation-Box {
+    	max-width: 100%;
+	}
+	.video-box img {
+    	max-width: 100%;
+    	max-height: 300px;
+	}
+	.footer-bottom p {
+    	font-size: 16px;
+    	text-align: center;
+	}
+	.footer-bottom .right {
+    	text-align: center;
+    	margin-top: 10px;
+	}
+	.footer-bottom .right span {
+    	font-size: 16px;
+	}
+	.footer-bottom .right a {
+	    font-size: 16px;
+	    width: 25px;
+	    height: 25px;
+	    margin: 0 5px;
+	}
+}
+@media only screen and (max-width:480px){}
+@media only screen and (max-width:440px){}
+@media only screen and (max-width:414px){}
+@media only screen and (max-width:385px){
+	.slide-menu {
+    	max-width: 250px;
+	}
+	.slide-menu li a {
+    	font-size: 16px;
+	}
+}
